@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "28436c505aed414a",
+    "type": "split",
+    "children": [
+      {
+        "id": "381a43fb94599c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda2cc613cffb347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/DC circuits/Resistor in series and parallel.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resistor in series and parallel"
+            }
+          },
+          {
+            "id": "dbfbe9a2302bfc4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circuits/BJT NPN Astable Multivibrator/BJT NPN Astable Multivibrator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BJT NPN Astable Multivibrator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62bc2d78580184d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3c626fbe8d6e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc77236828fc3afb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "922de7ef5862be48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2f62a5ef5e725dce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.51103591918945
+  },
+  "right": {
+    "id": "9b4616298ef08104",
+    "type": "split",
+    "children": [
+      {
+        "id": "af949987c97af023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b231a71d2462e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "e248bc27c4e5aeda",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "90fd8de294ffd5d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e42ecfce677facf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bda2cc613cffb347",
+  "lastOpenFiles": [
+    "Theory/DC circuits/Resistance and Ohm's law.md",
+    "Circuits/BJT NPN Astable Multivibrator/BJT NPN Astable Multivibrator.md",
+    "Theory/DC circuits/Resistor in series and parallel.md",
+    "Theory/DC circuits/images/Resistance network.jpeg",
+    "Theory/Multivibrator.md",
+    "Theory/DC circuits/images/Ohm's laws.jpeg",
+    "Theory/DC circuits/images",
+    "Theory/RC circuit.md",
+    "Theory/Relaxation oscillator.md",
+    "Theory/DC circuits",
+    "Circuits/BJT NPN Astable Multivibrator",
+    "Circuits/BJT NPN Astable Multivibrator/images/BE-junctionBreakdown.jpg",
+    "Circuits/BJT NPN Astable Multivibrator/images/TransistorBases.jpg",
+    "Circuits/BJT NPN Astable Multivibrator/images/outputs.jpg",
+    "Circuits/BJT NPN Astable Multivibrator/images/schematic-protection-diode 1.jpeg",
+    "Circuits/BJT NPN Astable Multivibrator/images/schematic-protection-diode.jpeg",
+    "Circuits/BJT NPN Astable Multivibrator/images/Q1-outputAndBase.jpg",
+    "Circuits/BJT NPN Astable Multivibrator/images",
+    "Circuits/images/Pasted image 20250322235758.png",
+    "Circuits/BJT NPN Astable Multivibrator/images/schematic-state2.jpeg",
+    "Circuits/BJT NPN Astable Multivibrator/images",
+    "Theory",
+    "Circuits",
+    "2025-03-21.md",
+    "Untitled.canvas",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
